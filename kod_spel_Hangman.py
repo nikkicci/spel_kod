@@ -1,7 +1,3 @@
-
-
-
-
 import random
 import ordlista_Hangman
 import ordlista_frukter
